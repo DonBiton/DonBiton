@@ -6,7 +6,13 @@
 - 😱 I'm  working with a company that has been under US sanctions since 2016
 - 🤔 I’m looking for help with learning C++
   
+  
+   <img src="https://komarev.com/ghpvc/?username=DonBiton&style=flat-square&color=blue" alt=""/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonBiton&theme=dark&background=000000)](https://git.io/streak-stats)
+ 
       
+     
+  
 
 <!-- <div align="center">
   <img src="" width="600" height="300"/>
